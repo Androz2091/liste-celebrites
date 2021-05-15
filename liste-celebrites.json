@@ -586,5 +586,9 @@
     {
         "name": "Pierce Brosnan",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pierce_Brosnan_2017.jpg"
+    },
+    {
+        "name": "Roger Moore",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sir_Roger_Moore_3.jpg"
     }
 ]
