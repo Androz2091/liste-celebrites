@@ -574,5 +574,17 @@
     {
         "name": "Amel Bent",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Amel_Bent_NRJ_2014.jpg"
+    },
+    {
+        "name": "Sean Connery",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sean_Connery_%281983%29.jpg"
+    },
+    {
+        "name": "Daniel Craig",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Daniel_Craig_-_Film_Premiere_%22Spectre%22_007_-_on_the_Red_Carpet_in_Berlin_%2822387409720%29_%28cropped%29.jpg"
+    },
+    {
+        "name": "Pierce Brosnan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pierce_Brosnan_2017.jpg"
     }
 ]
