@@ -4,6 +4,10 @@
         "image_url": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSf3epevpzuSUvJMCeqzwVuTkfWx5wkfH36ZQKvkGJq7gkwuzzaFcJ4gJQ0UwsW"
     },
     {
+        "name": "Kobe Bryant",
+         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuJs_eD_YYejFPtXMkp_WhRW41Xz0DSlxtmImgsOq5hUMjDJ1"
+    },
+    {
         "name": "Sean Combs",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sean_Combs_2010.jpg"
     },
